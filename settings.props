@@ -474,7 +474,7 @@
                 </PropertyGroup>
             </Project>
         -->
-        <FileVersionMsBuild>$(DirWorkspace)\version.xml</FileVersionMsBuild>
+        <!--<FileVersionMsBuild>$(DirWorkspace)\version.xml</FileVersionMsBuild>-->
 
         <!--
             When using GitVersion with a git repository that needs authentication the following properties
