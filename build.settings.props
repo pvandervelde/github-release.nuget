@@ -260,6 +260,7 @@
             <PostSteps>
             </PostSteps>
         </BuildStepsToExecute>
+        <!--
         <BuildStepsToExecute Include="$(BuildStepsPrepareGetIssueIds)">
             <Properties>
             </Properties>
@@ -273,6 +274,7 @@
             <PostSteps>
             </PostSteps>
         </BuildStepsToExecute>
+        -->
 
         <!--
             This step potentially changes the local branch we are building. If one or more merge targets have been
@@ -330,6 +332,7 @@
             </PostSteps>
         </BuildStepsToExecute>
 
+        <!--
         <BuildStepsToExecute Include="$(BuildStepsPrepareReleaseNotes)">
             <Properties>
             </Properties>
@@ -343,6 +346,7 @@
             <PostSteps>
             </PostSteps>
         </BuildStepsToExecute>
+        -->
 
         <!--
         <BuildStepsToExecute Include="$(BuildStepsPrepareRestoreNpm)">

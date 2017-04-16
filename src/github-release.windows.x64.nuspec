@@ -11,9 +11,6 @@
         <description>
             $ProductDescription$
         </description>
-        <releaseNotes>
-            $ReleaseNotesHtmlEncoded$
-        </releaseNotes>
         <dependencies>
         </dependencies>
     </metadata>
